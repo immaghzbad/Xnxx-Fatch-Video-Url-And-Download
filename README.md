@@ -1,5 +1,7 @@
 # Fetch Videos
 
+**Note: This content is intended for adults (+18) only. Misuse of this application is the responsibility of the user.**
+
 This project is a simple web application that allows users to fetch video URLs from the website `xnxx.com`. By entering a valid URL and a license key, users can retrieve video links in different qualities (Low, High, HLS) and download them directly.
 
 ## Features
@@ -36,3 +38,5 @@ define('LICENSE_KEY', 'your_new_license_key');
 ## Social Media
 
 For more projects and updates, follow the developer on Telegram: [PowerSigma](https://t.me/PowerSigma)
+
+---
